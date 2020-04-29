@@ -1,6 +1,6 @@
 # CMPM163Labs
 
-Lab 4 Cubes : https://drive.google.com/file/d/1-i4QGQCzeez1U696C5pcs5ljda-l07JE/view?usp=sharing
+Lab 4 Cubes : https://drive.google.com/file/d/1yzbTllhoQvj21gsjvhFv3zNABbW6eZbe/view?usp=sharing
 
   For Cube 1 on the left, I used the built in three.js support for textures and chose a mossy texture.
   
@@ -10,7 +10,7 @@ Lab 4 Cubes : https://drive.google.com/file/d/1-i4QGQCzeez1U696C5pcs5ljda-l07JE/
   
   For Cube 4 at the top, I used the built in three.js support for textures and normal maps to add a craggy rock texture and normal map.
   
-  For Cube5, I used the vertex scripts for lab4 and modified the vertex shader to try and repeat the texture across the cube in a tiling pattern.  Every time I tried to change the vec2 that I would give to texture2D(), my shader code broke and my cube stopped loading. I will ask about this during next office hours, and seek more material to bolster my understanding of openGL
+  For Cube5, I used the vertex scripts for lab4 and modified the fragment shader to try and repeat the texture across the cube in a tiling pattern.  Every time I tried to change the vec2 that I would give to texture2D(), what ended up working was to build a new vec2 that would reference the original vUv and modify its x and y components by doubling them and doing a modulus operation on each with a float 1.0.
   
   24)A) My function would be: floor(u * 8)-1
   24)B) My function would be: floor(v * 8)-1
