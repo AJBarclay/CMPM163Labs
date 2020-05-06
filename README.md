@@ -1,4 +1,10 @@
 # CMPM163Labs
+Lab 5 Kart Particle Effect : https://drive.google.com/file/d/1Qlq7ccemRhKeR6Ej660wn9-BlioXh0Ce/view?usp=sharing
+
+  I chose Part 1 with Unity.
+  
+  For this particle effect I increased weight effect and enabled collision with world surfaces so it would bounce chaotically, and used circular textures with transparency for the trail and emission to make a particle that looks somewhat like a fountain of gold coins.  Then I added a couple of asteroids and changed their proportions so they would resemble a crumpled knapsack. Finally I positioned the knapsack and coin fountain so it would look like our kart rider was racing against a time limit while their gold coins spill out of their bag.
+
 
 Lab 4 Cubes : https://drive.google.com/file/d/1yzbTllhoQvj21gsjvhFv3zNABbW6eZbe/view?usp=sharing
 
