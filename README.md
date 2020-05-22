@@ -3,6 +3,9 @@
 
 Lab 8 
 
+Screenshot: 
+![](images/CMPM-163-Lab-8-Screenshot)
+
 a.) I chose part 1
 
 b.) I.)
