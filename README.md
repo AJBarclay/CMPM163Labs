@@ -3,12 +3,27 @@
 
 Lab 8 
 
-Screenshot: 
-![](images/CMPM-163-Lab-8-Screenshot)
-
 a.) I chose part 1
 
-b.) I.)
+b.) I.) 
+  
+  ![](images/warsaw_oli_2013251)
+  
+  ![](images/Warsaw_poland_inpiration)
+
+b.) II.)
+
+  Screenshot: 
+  
+  ![](images/CMPM-163-Lab-8-Screenshot)
+
+  Video : https://drive.google.com/file/d/1ddEvn8ZmMYYfDrWkoHJPprSqVYGyShl8/view?usp=sharing
+  
+b.) III.)  The colorful large buildings and frequent churches and cathedrals in Warsaw, Poland inspired me to choose lots of big church buildings and alter their materials to be a little more colorful like the ones in the inspiration images.  The bird's eye view image inspired me to add parks and rivers by procedurally adding water and grass to the city and then added some trees that I generated with unity's tree editor.
+
+d.) My partner was Xueer Zhu, below are my partner's responses:
+
+d.) I.)
 
 
 
