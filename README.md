@@ -1,4 +1,15 @@
 # CMPM163Labs
+
+
+Lab 8 
+
+a.) I chose part 1
+
+b.) I.)
+
+
+
+
 Lab 7 Mountain Scene : https://drive.google.com/file/d/1potNOECKmbDDC1aE-v-F972Q1-mAJ-1-/view?usp=sharing
 
   I chose Part 1 with Unity.
