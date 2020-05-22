@@ -1,4 +1,18 @@
 # CMPM163Labs
+
+
+Lab 8 
+
+Screenshot: 
+![](images/CMPM-163-Lab-8-Screenshot)
+
+a.) I chose part 1
+
+b.) I.)
+
+
+
+
 Lab 7 Mountain Scene : https://drive.google.com/file/d/1potNOECKmbDDC1aE-v-F972Q1-mAJ-1-/view?usp=sharing
 
   I chose Part 1 with Unity.
@@ -6,6 +20,16 @@ Lab 7 Mountain Scene : https://drive.google.com/file/d/1potNOECKmbDDC1aE-v-F972Q
   I started by following the tutorial for the mesh deformation with noise and making a similar shader to modify a plane.  I also added a rocky texture to the plane in the shader graph editor for the mountain plane.  Then I followed the tutorial for the wave shader, modified some of the syntax to work correctly, and added a z axis component to the wave motion by adding the cosine of the z component of the world position of the current vertex plus speed times time in the displacement line of the vertex shader for the wave shader.
   
   I saw that the craggy look of my mountains actually lent itself better to a miniature scale, so I added an ant model and made a material for it and posed some throughout my scene.  I thought it would be funny to use some of the prefabs from the default URP project to make it look like the ants were doing some construction on a rough patch of rubble in a puddle.  One of them is off taking a water break near one of the smaller water holes in my mountain scene.
+  
+  Partner responses:
+  
+  1. I did part 1 (Unity)
+  2. The most challenging part was the wave shader because the
+  tutorial was a bit hard to follow. Then I found
+  out that it didn't work properly in HDRP, so I had to switch 
+  to URP.
+  3. Probably the Unity shader graph. It seems like a useful and 
+  relatively easy to use process for creating shaders.
 
 
 
