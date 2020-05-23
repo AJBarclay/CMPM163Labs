@@ -7,15 +7,15 @@ a.) I chose part 1
 
 b.) I.) 
   
-  ![](images/warsaw_oli_2013251)
+  ![](images/warsaw_oli_2013251.jpg)
   
-  ![](images/Warsaw_poland_inpiration)
+  ![](images/Warsaw_poland_inpiration.jpg)
 
 b.) II.)
 
   Screenshot: 
   
-  ![](images/CMPM-163-Lab-8-Screenshot)
+  ![](images/CMPM-163-Lab-8-Screenshot.jpg)
 
   Video : https://drive.google.com/file/d/1ddEvn8ZmMYYfDrWkoHJPprSqVYGyShl8/view?usp=sharing
   
