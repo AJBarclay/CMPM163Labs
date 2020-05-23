@@ -21,9 +21,15 @@ b.) II.)
   
 b.) III.)  The colorful large buildings and frequent churches and cathedrals in Warsaw, Poland inspired me to choose lots of big church buildings and alter their materials to be a little more colorful like the ones in the inspiration images.  The bird's eye view image inspired me to add parks and rivers by procedurally adding water and grass to the city and then added some trees that I generated with unity's tree editor.
 
-d.) My partner was Xueer Zhu, below are my partner's responses:
+d.) My partner was Xueer Zhu, below are my and my partner's responses:
 
-d.) I.)
+d.) I.)  I followed the tutorial and made some adjustments because the assets I imported came in with inconsistent sizes and orientations. In the if else chain I basically assigned a list of offset floats for translate and rotate and worked them in to the instantiate call.  I adjusted individual footprints in a similar way, and added grass cubes and wave planes for rivers and parks.  The colorful large buildings and frequent churches and cathedrals in Warsaw, Poland inspired me to choose lots of big church buildings and alter their materials to be a little more colorful like the ones in the inspiration images. The bird's eye view image inspired me to add parks and rivers by procedurally adding water and grass to the city and then added some trees that I generated with unity's tree editor.
+
+d.) II.)  I used Perlin noise to generate a 2D texture for building heightmap. A simple function is used to determine building types.      Hand authored design here to tweak the algorithm to make sure certain colored ones are always taller/shorter for more visual distinct clusters. 
+Finally, a grid generator is used to spawn such clusters as prefab into the scene to create zones.
+
+e.)  My partner and I did not collaborate on our labs.
+
 
 
 
